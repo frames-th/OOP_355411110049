@@ -33,7 +33,7 @@ public class Lab2_2 {
 
         System.out.println(c);
         System.out.println(", your address at " +d);
-        System.out.println(", your E-mail is " +e +" And your phone number is ");
+        System.out.println(", your E-mail is " +e +" And your phone number is 0");
         System.out.println(f);
         System.out.println("Thank you !");
 
