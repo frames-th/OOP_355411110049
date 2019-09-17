@@ -18,7 +18,7 @@ public class mySuperCar {
         String co = sc.nextLine();
 
         SuperCar car1 = new SuperCar(cb,cc,es,ms,co);
-        car1.getsupercarinfo();
+        System.out.println(car1.getsupercarinfo());
 
     }
 }
